@@ -1,0 +1,11 @@
+.layout {
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
+  text-align: center;
+}
+
+.link {
+  color: #936;
+  text-decoration: none;
+  cursor: pointer;
+}
